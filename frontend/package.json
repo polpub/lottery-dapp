@@ -1,0 +1,23 @@
+{
+  "name": "lottery-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@multiversx/sdk-core": "^13.17.2",
+    "@multiversx/sdk-network-providers": "^2.9.3",
+    "buffer": "^6.0.3",
+    "eventemitter3": "^5.0.4",
+    "process": "^0.11.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stream-browserify": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^5.4.21"
+  }
+}
