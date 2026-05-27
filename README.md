@@ -1,6 +1,6 @@
 # Lottery dApp - MultiversX
 
-O aplicatie de loterie descentralizata construita pe blockchain-ul MultiversX.
+O aplicatie de loterie decentralizata construita pe blockchain-ul MultiversX.
 
 ## Descriere
 
