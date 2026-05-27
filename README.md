@@ -14,7 +14,7 @@ MultiversX (Devnet)
 
 erd1qqqqqqqqqqqqqpgqy2h0d3a8r6s5nztpcvxhgw5l4845y5t48wgqyxk988
 
-## Cum rulezi frontentul local
+## Cum rulezi frontend-ul local
 
 ```bash
 cd frontend
